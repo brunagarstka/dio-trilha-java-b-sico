@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class contaBancaria {
     public static void main(String[] args){
+        //criando scanner
     Scanner scanner = new
     Scanner(System.in).useLocale(Locale.US);
     
